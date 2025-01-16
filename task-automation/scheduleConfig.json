@@ -1,0 +1,5 @@
+{
+  "cleanLogs": "0 * * * *",         
+  "generateReports": "*/2 * * * *", 
+  "sendNotifications": "*/10 * * * *" 
+}
